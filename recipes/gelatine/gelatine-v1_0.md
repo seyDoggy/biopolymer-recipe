@@ -16,6 +16,7 @@
 1. Combine corn syrup, sugar, salt and sucralose.
 1. Microwave the syrup mixture at 10 second intervals until the temperature reaches 190°F.
 1. Add the hot syrup to the gelatine dough and mix until gelatin begins to melt.
+1. Continue to add the remaining gelatin, slowly mixing in to ensure no clumps.
 1. Microwave the mixture at 10 second intervals, stirring frequently, until the mixuture is smooth and adequatly runny. DO NOT BOIL the gelatin.
 1. Add trace amounts of food coloring as required for desired coloration.
 
