@@ -7,6 +7,8 @@
 1. 3 tbsp sugar
 1. 1/4 tsp salt
 1. 2 g sucralose (two packets Splenda)
+1. Food coloring as desired
+1. Flavoring as desired
 
 ## Directions
 1. Combine water and glycerin in a mixing bowl.
