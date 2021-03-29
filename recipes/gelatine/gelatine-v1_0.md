@@ -3,7 +3,7 @@
 1. 1 cup cold water
 1. 1 cup vegatable glycerin
 1. 1/2 cup gelatine
-1. 6 1/5 tbsp white corn syrup
+1. 6 1/2 tbsp white corn syrup
 1. 3 tbsp sugar
 1. 1/4 tsp salt
 1. 2 g sucralose (two packets Splenda)
