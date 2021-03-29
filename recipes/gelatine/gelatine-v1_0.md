@@ -15,6 +15,7 @@
 1. Microwave the syrup mixture at 10 second intervals until the temperature reaches 190°F.
 1. Add the hot syrup to the gelatine dough and mix until gelatin begins to melt.
 1. Microwave the mixture at 10 second intervals, stirring frequently, until the mixuture is smooth and adequatly runny. DO NOT BOIL the gelatin.
+1. Add trace amounts of food coloring as required for desired coloration.
 
 ## Injection baits
 1. With a hand injector, draw up a couple table spoons of warm mixture, and expell to "burp" the injector.
@@ -32,3 +33,5 @@
 1. Store polymer and baits in airtight bags at room temperature or in the refrigerator until ready to use.
 1. Vegatable oil can be used to prolong shelf life.
 
+## Scents and attractants
+Experiment with adding trace amounts of water soluable compounds such as brewed coffee, water from a tuna can, etc during the mixing process. Alternatively, try storing the baits in an oil based soution with garlic of other such flavorings.
