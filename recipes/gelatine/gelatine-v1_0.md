@@ -34,4 +34,4 @@
 1. Vegatable oil can be used to prolong shelf life.
 
 ## Scents and attractants
-Experiment with adding trace amounts of water soluable compounds such as brewed coffee, water from a tuna can, etc during the mixing process. Alternatively, try storing the baits in an oil based soution with garlic of other such flavorings.
+Experiment with adding trace amounts of water soluable compounds such as brewed coffee, water from a tuna can, etc during the mixing process. Alternatively, try storing the baits in an oil based soution with garlic or other such flavorings.
