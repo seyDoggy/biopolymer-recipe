@@ -7,7 +7,7 @@ A biopolymer intended (initially) as a replacement for PVC (plastisol) in the cr
 The composition and manufacture of a biodegradable, edible, soft fishing bait that is both commercially viable and accessible to the home hobbyist, that is digestible, compostable, will breakdown in the water system, and reduce harm to the fish and ecosystem is being investigated. The composition should be sufficiently durable, be easily stored and handled by anglers onshore and offshore, be sufficiently heat tolerant and stand up to reasonable use in water. The manufacturing process should be such that both commercial operations and hobbyist can create baits with ease, using typical injection and hand pouring methods.
 
 ## Recipe
-* [Gelatine v1.0](recipes/gelatine/gelatin-v1_0.md "Version 1.0 of Gelatine, glycerin and corn syrup biopolymer")
+* [Gelatine v1.0](recipes/gelatine/gelatine-v1_0.md "Version 1.0 of Gelatine, glycerin and corn syrup biopolymer")
 
 ## Description
 ### Background
