@@ -1,6 +1,6 @@
-![Baits made with gelatin-v1_0 recipe](https://github.com/seyDoggy/biopolymer-recipe/blob/main/images/gelatin-v1_0-baits.jpg?raw=true)
-
 # Biopolymer Composition and Manufacture for Biodegradable Fishing Lures
+![Baits made with gelatin-v1_0 recipe](images/gelatin-v1_0-baits.jpg)
+
 A biopolymer intended (initially) as a replacement for PVC (plastisol) in the creation of soft plastic fishing baits.
 
 ## Abstract
