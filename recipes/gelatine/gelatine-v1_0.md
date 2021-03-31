@@ -1,4 +1,4 @@
-# Gelatine with glycernin and corn syrop
+# Gelatine with glycernin and corn syrup
 ## Ingredients
 1. 1 cup cold water
 1. 1 cup vegetable glycerin
@@ -20,6 +20,9 @@
 1. Microwave the mixture at 10 second intervals, stirring frequently, until the mixture is smooth and adequatley runny. DO NOT BOIL the gelatin.
 1. Add trace amounts of food coloring as required for desired coloration.
 
+## Tips
+1. If you have access to a vacuum chamber, degassing the mixture will significanttly help elasticity.
+1. Adding a few table spoons of alcohol prior to degassing can help the degassing process.
 ## Injection baits
 1. With a hand injector, draw up a couple table spoons of warm mixture, and expel to "burp" the injector.
 1. Draw enough mixture to inject into the molds at hand.
