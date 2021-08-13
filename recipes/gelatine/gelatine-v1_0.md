@@ -17,12 +17,13 @@
 1. Microwave the syrup mixture at 10 second intervals until the temperature reaches 190°F.
 1. Add the hot syrup to the gelatine dough and mix until gelatin begins to melt.
 1. Continue to add the remaining gelatin, slowly mixing in to ensure no clumps.
-1. Microwave the mixture at 10 second intervals, stirring frequently, until the mixture is smooth and adequatley runny. DO NOT BOIL the gelatin.
+1. Microwave the mixture at 10 second intervals, stirring frequently, until the mixture is smooth and adequately runny. DO NOT BOIL the gelatin.
 1. Add trace amounts of food coloring as required for desired coloration.
 
 ## Tips
-1. If you have access to a vacuum chamber, degassing the mixture will significanttly help elasticity.
+1. If you have access to a vacuum chamber, degassing the mixture will significantly help elasticity.
 1. Adding a few table spoons of alcohol prior to degassing can help the degassing process.
+
 ## Injection baits
 1. With a hand injector, draw up a couple table spoons of warm mixture, and expel to "burp" the injector.
 1. Draw enough mixture to inject into the molds at hand.
