@@ -8,6 +8,7 @@ The composition and manufacture of a biodegradable, edible, soft fishing bait th
 
 ## Recipe
 * [Gelatine v1.0](recipes/gelatine/gelatine-v1_0.md "Version 1.0 of Gelatine, glycerin and corn syrup biopolymer")
+* [Gelatine v1.1](recipes/gelatine/gelatine-v1_1.md "Version 1.1 of Gelatine, glycerin and corn syrup biopolymer")
 
 ## Description
 ### Background
