@@ -1,10 +1,5 @@
 # Gelatine with glycernin and corn syrup
 
-## Experiment Results
-
-The modified preparation process made for baits that were clear and free of air bubbles, but the elastic modulus of the final product was too low to make these baits viable. I suspect that the sugar wasn't cooked at a high enough temperature to cause sufficient inversion. Additional experimentation along this line are warranted.
-
-
 ## Ingredients
 1. 1 cup cold water
 1. 1 cup vegetable glycerin
