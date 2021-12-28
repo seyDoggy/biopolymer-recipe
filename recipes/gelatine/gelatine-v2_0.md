@@ -1,4 +1,4 @@
-# Gelatine with glycernin and corn syrup (refined cooking method)
+# Crosslinked Gelatine using water, sugar and sodium carbonate (washing soda)
 ## Working notes
 - gelatine 17% weight (10.5 g)
 - corn syrop 10% weight (6.2 g)
@@ -9,6 +9,12 @@
 - placed in oven at 190°F
 - 167°F
 - cook time - 2 hours
+
+## Experiment results
+- resulting compound sustained too much water loss after 24 hour curing time, making the end product dry and stiff
+- crosslinking was achieved at about the 1.5 hr mark
+- thermal stability was high
+- remelting doesn't seem to be an option
 
 ## Ingredients
 1. 100g cold water
@@ -34,7 +40,7 @@
 1. Open molds and remove baits and let air cure for a couple minutes before bagging.
 
 ## Remelting
-1. Unknown
+Crosslinking is not typically reversible, making this composition suitable for immediate manufacture only.
 
 ## Storing
 1. Unknown
