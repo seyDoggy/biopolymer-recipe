@@ -1,26 +1,27 @@
 # Crosslinked Gelatine using water, sugar and sodium carbonate (washing soda)
 ## Working notes
-- gelatine 17% weight (10.5 g)
-- corn syrop 10% weight (6.2 g)
-- sodium carbonate 2% weight (1.2 g)
-- water 7% weight at heating step (100 g)
+- gelatine 17% weight (21.0 g)
+- corn syrop 10% weight (14 g)
+- sodium carbonate 2% weight (2.4 g)
+- glycerin N% weight at heating step (50 g)
+- water N% weight at heating step (50 g)
+
+- combine all liquids and sodium carbonate
+- sprinke gelatin over top and allow to fully bloom
 - dissolve all ingredients on low heat
-- final dissolved weight was 99.5 g
+- final dissolved weight was 102.8 g
 - placed in oven at 190°F
-- 167°F
-- cook time - 2 hours
+- cook time - 30 minutes
 
 ## Experiment results
-- resulting compound sustained too much water loss after 24 hour curing time, making the end product dry and stiff
-- crosslinking was achieved at about the 1.5 hr mark
-- thermal stability was high
-- remelting doesn't seem to be an option
+- resulting compound attained crosslinking prior to cooking in the oven, rendering it unusable
 
 ## Ingredients
-1. 100g cold water
-1. 10.5g gelatin
-1. 6.2g white corn syrup
-1. 1.2g sodium carbonate
+1. 50g cold water
+1. 50g glycerin
+1. 21g gelatin
+1. 14g white corn syrup
+1. 2.4g sodium carbonate
 1. Food coloring as desired
 1. Flavoring as desired
 
