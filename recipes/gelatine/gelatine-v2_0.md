@@ -1,4 +1,13 @@
 # Crosslinked Gelatine using water, sugar and sodium carbonate (washing soda)
+
+## Try next
+- reduce water slightly from bellow
+- follow steps bellow for dissolving
+- pour into moulds
+- let gel set in moulds for 24 hours
+- bake on high to trigger crosslinking
+- cool
+
 ## Working notes
 - water N% weight (50 g)
 - sodium carbonate 2% weight (1.2 g)
@@ -11,18 +20,15 @@
 - sprinkle gelatin over top and allow to fully bloom
 - dissolve gelatin mixture on low heat
 - final dissolved weight was N g
-- placed in oven at 190°F
-- cook time - N hours, stirring gently every 10-15 minutes
+<!--- placed in oven at 190°F-->
+<!--- cook time - N hours, stirring gently every 10-15 minutes-->
 
 ## Experiment results
-- dissolving process was clean
-- stirring every 7.5 minutes prevented crosslinking prematurely
-- attempts to bake until crosslinked were unsuccessful
 
 ## Ingredients
-1. 75g cold water
-1. 25g glycerin
-1. 7g white corn syrup
+1. 50g cold water
+1. 50g glycerin
+1. 7.5g white corn syrup
 1. 10.5g gelatin
 1. 1.2g sodium carbonate
 1. Food coloring as desired
