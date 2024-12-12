@@ -1,3 +1,5 @@
+![Baits made with gelatin-v1_2 recipe](../../images/gelatine-v1_2/post-cured-result.jpg)
+
 # Gelatine with glycernin and corn syrup (refined cooking method)
 ## Experiment Results
 This was a successful experiment by the measure that there is a functional product as the outcome. The end product I was able 
